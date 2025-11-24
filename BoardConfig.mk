@@ -10,7 +10,7 @@ DEVICE_PATH := device/xiaomi/matisse
 TARGET_SCREEN_DENSITY := 560
 
 # Kernel
-KERNEL_PREBUILTS_DIR := $(DEVICE_PATH)/prebuilt
+KERNEL_PREBUILTS_DIR := $(DEVICE_PATH)/prebuilts
 
 TARGET_NO_KERNEL_OVERRIDE := true
 TARGET_KERNEL_SOURCE := kernel/xiaomi/mt6983
