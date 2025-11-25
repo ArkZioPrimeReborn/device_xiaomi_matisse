@@ -63,7 +63,7 @@ PRODUCT_SHIPPING_API_LEVEL := 31
 PRODUCT_PACKAGES += \
     XiaomiParts
 
-# Inherit from mt6895-common
+# Inherit from mt6983-common
 $(call inherit-product, device/xiaomi/mt6983-common/mt6983.mk)
 
 # Inherit the proprietary files
