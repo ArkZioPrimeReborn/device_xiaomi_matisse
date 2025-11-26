@@ -121,7 +121,7 @@ dw9800v.ko
 ak7377a.ko
 ak7375c.ko
 bu64253gwz.ko
-mdp_drv_mt6983.ko
+pda_drv_mt6895.ko
 mtk_rpmsg_mbox.ko
 mtk-mbox.ko
 mtk_tinysys_ipi.ko
