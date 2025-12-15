@@ -30,7 +30,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=Redmi/matisse/matisse:14/UP1A.231005.007/OS2.0.2.0.ULNCNXM:user/release-keys \
 
 
-# Inherit GApps if available
-$(call inherit-product-if-exists, vendor/gapps/arm64/arm64-vendor.mk)
+# Avium Setting
+include device/xiaomi/matisse/avium_common.mk
 
 

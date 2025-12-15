@@ -31,6 +31,3 @@ include device/xiaomi/mt6983-common/BoardConfigCommon.mk
 
 # Inherit the proprietary files
 include vendor/xiaomi/matisse/BoardConfigVendor.mk
-
-# Avium Setting
-include device/xiaomi/matisse/avium_common.mk
